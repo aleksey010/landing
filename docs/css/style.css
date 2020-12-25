@@ -108,7 +108,7 @@ h6 {
 
 /*--------------------*/
 
-body {
+.wrapper {
   overflow-x: hidden;
 }
 
