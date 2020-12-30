@@ -370,11 +370,6 @@ header .header-sm-menu {
           transform: translate(-100%);
 }
 
-header .header-sm-menu nav ul hr {
-  height: 1px;
-  background-color: #777777;
-}
-
 header .header-sm-menu nav ul li {
   text-align: center;
   padding: 10px;
@@ -706,6 +701,10 @@ main .our-amazing-team .our-amazing-team__description {
 main .our-amazing-team .our-amazing-team__description p {
   margin: 0 auto;
   max-width: 610px;
+}
+
+main .sponsors {
+  padding: 120px 0;
 }
 
 main .sponsors .sponsors__block {
